@@ -1,5 +1,7 @@
 # RenderEase
 
+## Tested: Blender 4.3.2 / Windows
+
 Schedule Blender renders and let them run automatically at the right time.
 
 RenderEase is a lightweight, local-only Blender add-on designed to make rendering easier when you don't want to manually start or monitor the process.
