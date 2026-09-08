@@ -1,5 +1,7 @@
 # RenderEase
 
+![RenderEase Screenshot](RenderEase.png)
+
 ## Tested: Blender 4.3.2 / Windows
 
 Schedule Blender renders and let them run automatically at the right time.
