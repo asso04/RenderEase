@@ -1,18 +1,61 @@
 # RenderEase
 
-Queue and schedule Blender renders without babysitting your machine.
+Schedule Blender renders and let them run automatically at the right time.
 
-A small local-only Blender add-on: ordered still/animation jobs, local scheduling,
-manual execution, failure recovery and the last 50 history entries. No dependencies,
-accounts, network calls, telemetry or external services.
+RenderEase is a lightweight, local-only Blender add-on designed to make rendering easier when you don't want to manually start or monitor the process.
 
-Implementation and usage documentation: [renderease/README.md](renderease/README.md).
-Validation evidence and hardware report: [VALIDATION.md](VALIDATION.md).
-Installable artifact: `dist/renderease.zip`.
+## Features
 
-From this directory:
+* Schedule renders for a specific time
+* Support for still images and animations
+* Local-only operation
+* Manual render execution
+* Failure recovery
+* Recent render history
+* No accounts or external services
+* No telemetry
+* No network connection required
+
+Everything runs locally inside Blender.
+
+## Installation
+
+Download the installable ZIP:
+
+`dist/renderease.zip`
+
+Then in Blender:
+
+**Edit → Preferences → Add-ons → Install from Disk**
+
+Select `renderease.zip` and enable the add-on.
+
+## Documentation
+
+Detailed usage and implementation documentation:
+
+[renderease/README.md](renderease/README.md)
+
+Validation and hardware testing:
+
+[VALIDATION.md](VALIDATION.md)
+
+## Development
+
+Run tests:
 
 ```powershell
 python -m unittest discover -s tests -p 'test_*.py' -v
+```
+
+Build the installable package:
+
+```powershell
 python tools/package.py
 ```
+
+## Status
+
+RenderEase is currently an early release.
+
+Feedback, bug reports and workflow suggestions are welcome as the add-on continues to evolve.
