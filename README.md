@@ -56,4 +56,6 @@ If you try RenderEase, feedback about bugs, workflow improvements, missing featu
 
 Once enough feedback has been collected and the add-on has been refined, a more complete version with additional features will be released.
 
+Found a bug or have a feature suggestion? Open an Issue.
+
 The link to the full version will be added here when it becomes available.
