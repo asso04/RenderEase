@@ -1,0 +1,67 @@
+RenderEase Free License
+Version 1.0
+
+Copyright (c) 2026 RenderEase / asso04
+
+All rights reserved.
+
+Permission is granted to download, install, and use the free version of RenderEase for personal, educational, testing, and evaluation purposes, subject to the conditions below.
+
+1. PERMITTED USE
+
+You may:
+
+* Download and install RenderEase.
+* Use RenderEase for personal and non-commercial projects.
+* Use RenderEase for educational purposes.
+* Test and evaluate the software.
+* Modify the source code for your own private use.
+* Submit feedback, bug reports, and feature suggestions.
+
+2. RESTRICTIONS
+
+You may not, without prior written permission:
+
+* Sell, sublicense, rent, lease, or commercially redistribute RenderEase.
+* Redistribute modified or unmodified copies of RenderEase.
+* Repackage RenderEase under another name.
+* Claim authorship or ownership of RenderEase or any substantial portion of its source code.
+* Incorporate RenderEase or substantial portions of its source code into another commercial product or paid add-on.
+* Use the source code to create and distribute a competing product that substantially reproduces RenderEase's functionality.
+* Remove copyright, attribution, or license notices included with the software.
+
+3. COMMERCIAL VERSION
+
+This repository contains a free version of RenderEase intended for testing, evaluation, and community feedback.
+
+A separate commercial version with additional features may be released under different licensing terms.
+
+Access to this free version does not grant any rights to future commercial versions of RenderEase.
+
+4. CONTRIBUTIONS AND FEEDBACK
+
+Feedback, bug reports, feature requests, and suggestions may be used to improve RenderEase and future versions of the software.
+
+Submitting feedback does not grant ownership rights over RenderEase or any future implementation of the submitted ideas.
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, DATA LOSS, HARDWARE DAMAGE, LOST PROFITS, OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+Users are responsible for testing RenderEase in their own environment before relying on it for important or production workloads.
+
+6. TERMINATION
+
+Any violation of these terms automatically terminates the permission granted by this license.
+
+Upon termination, you must stop distributing or using any unauthorized copies or derivatives of RenderEase.
+
+7. OWNERSHIP
+
+RenderEase, its source code, branding, documentation, and original assets remain the intellectual property of their respective author or copyright holder.
+
+This license grants limited permission to use the software. It does not transfer ownership.
+
+For commercial licensing, redistribution permissions, or other requests, please contact the project author through the official RenderEase GitHub repository.
