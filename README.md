@@ -48,8 +48,12 @@ Build the installable package:
 python tools/package.py
 ```
 
-## Status
+## Early Release & Feedback
 
-RenderEase is currently an early release.
+This GitHub version is an early free release intended for testing and feedback.
 
-Feedback, bug reports and workflow suggestions are welcome as the add-on continues to evolve.
+If you try RenderEase, feedback about bugs, workflow improvements, missing features, or real-world use cases is highly appreciated.
+
+Once enough feedback has been collected and the add-on has been refined, a more complete version with additional features will be released.
+
+The link to the full version will be added here when it becomes available.
