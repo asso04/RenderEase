@@ -22,7 +22,7 @@ Everything runs locally inside Blender.
 
 Download the installable ZIP:
 
-`dist/renderease.zip`
+`RenderEase - V1.0/dist/renderease.zip`
 
 Then in Blender:
 
