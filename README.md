@@ -30,15 +30,9 @@ Then in Blender:
 
 Select `renderease.zip` and enable the add-on.
 
-## Documentation
-
-Detailed usage and implementation documentation:
-
-[renderease/README.md](renderease/README.md)
-
 Validation and hardware testing:
 
-[VALIDATION.md](VALIDATION.md)
+[RenderEase - V1.0/VALIDATION.md](VALIDATION.md)
 
 ## Development
 
